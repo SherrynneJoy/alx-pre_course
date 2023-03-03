@@ -1,2 +1,2 @@
 My first readme
- My name is Joy. I am a SWE student
+ My name is Troy. I am a SWE student
